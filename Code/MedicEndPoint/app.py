@@ -20,7 +20,7 @@ app = Flask(__name__)
 
 # Azure storage account details
 storageAccountName = "cyborguniverse"
-storageAccountKey = "Bsu0QC1pGIdHIG6OJ9W4vHz3oN68M9L8QI4crjGuz6sBOJZ5KoAp8UEE/XM86Ot7T62e3vSJCGGmHxzFFxTlpQ=="
+storageAccountKey = os.getenv('AZURE_STORAGE_ACCOUNT_KEY')
 
 containerName = "medic"
 blob = "oximeter-readings.csv"
@@ -31,8 +31,8 @@ blob = "oximeter-readings.csv"
 app.config['DEBUG'] = True
 app.config['MAIL_SERVER'] = 'smtp.office365.com'
 app.config['MAIL_PORT'] = 587
-app.config['MAIL_USERNAME'] = "cyborg.psm@outlook.com"
-app.config['MAIL_PASSWORD'] = "aaaaaaaaaa"
+app.config['MAIL_USERNAME'] = os.getenv('EMAIL_USERNAME')
+app.config['MAIL_PASSWORD'] = os.getenv('EMAIL_PASSWORD')
 app.config['MAIL_USE_TLS'] = True
 app.config['MAIL_USE_SSL'] = False
 
