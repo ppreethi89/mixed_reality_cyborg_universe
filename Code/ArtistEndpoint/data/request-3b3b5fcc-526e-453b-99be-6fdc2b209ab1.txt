@@ -1,0 +1,1 @@
+ImmutableMultiDict([('composition_image', 'HookneyTor026.JPG'), ('style_image', 'S29.jpg')])

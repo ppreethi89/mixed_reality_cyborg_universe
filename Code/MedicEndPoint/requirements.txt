@@ -1,0 +1,5 @@
+Flask==1.0.3
+requests==2.24.0
+pandas==1.1.2
+azure-storage-blob==12.4.0
+flask_mail==0.9.1

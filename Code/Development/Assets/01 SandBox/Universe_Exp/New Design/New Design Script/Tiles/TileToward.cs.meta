@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ce4c305bb617596418e66b471a928412
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - point: {instanceID: 0}
+  - controlWebPrefab: {fileID: 3693325211939235949, guid: 4c3b25a1453c268419ca73a7cc68972f,
+      type: 3}
+  - controlBuiltPrefab: {fileID: 3693325211939235949, guid: c128ddb156508884cbf70abc4d300512,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

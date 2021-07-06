@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: d964f5453033b454d96610345b2b3c4a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GT Walsheim Pro
+  fontNames:
+  - GT Walsheim Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 603b9884a9252a64f8b55b45b7ee96da, type: 3}
+  - {fileID: 12800000, guid: f1f3620d90beb30418b66ef8d1d64ad2, type: 3}
+  - {fileID: 12800000, guid: 41a2ff8dfaa38ec44bc9bb36caa9532f, type: 3}
+  - {fileID: 12800000, guid: 5409219d35b983f4e89e8f47446a353a, type: 3}
+  - {fileID: 12800000, guid: e3e8d50edc8c5094cb30ea3af6de6c8d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

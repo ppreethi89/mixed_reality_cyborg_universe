@@ -1,0 +1,353 @@
+{
+  "GameObject": [
+    {
+      "position": {
+        "posX": 14.4064884185791,
+        "posY": -3.75730419158936,
+        "posZ": 1
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 4.97,
+        "scaleY": 4.97,
+        "scaleZ": 4.97
+      },
+      "name": "Facebook",
+      "type": "Web-App",
+      "url": "https://facebook.com",
+      "scene": "scene-name",
+      "icon": "facebook-256",
+      "view": 0,
+      "status": "Disabled"
+    },
+    {
+      "position": {
+        "posX": -7.85450172424316,
+        "posY": 6.13646697998047,
+        "posZ": 0.999999761581421
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 4.96999979019165,
+        "scaleY": 4.96999979019165,
+        "scaleZ": 4.96999979019165
+      },
+      "name": "Settings",
+      "type": "Built-in",
+      "scene": "scene-name",
+      "icon": "settings-256",
+      "view": 0,
+      "status": "Enabled"
+    },
+    {
+      "position": {
+        "posX": -24.8855800628662,
+        "posY": 5.21194505691528,
+        "posZ": 1
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 4.97,
+        "scaleY": 4.97,
+        "scaleZ": 4.97
+      },
+      "name": "Twitter",
+      "type": "Web-App",
+      "url": "https://twitter.com",
+      "scene": "scene-name",
+      "icon": "twitter-256",
+      "view": 0,
+      "status": "Disabled"
+    },
+    {
+      "position": {
+        "posX": -11.0047464370728,
+        "posY": -12.6494140625,
+        "posZ": 0.999999761581421
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 4.96999979019165,
+        "scaleY": 4.96999979019165,
+        "scaleZ": 4.96999979019165
+      },
+      "name": "Google",
+      "type": "Web-App",
+      "url": "https://google.com",
+      "scene": "scene-name",
+      "icon": "google-256",
+      "view": 0,
+      "status": "Enabled"
+    },
+    {
+      "position": {
+        "posX": -21.9712352752686,
+        "posY": 8.88756656646729,
+        "posZ": 1
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 4.97,
+        "scaleY": 4.97,
+        "scaleZ": 4.97
+      },
+      "name": "Outlook Mail",
+      "type": "Web-App",
+      "url": "https://outlook.com",
+      "scene": "scene-name",
+      "icon": "outlook-icon",
+      "view": 0,
+      "status": "Disabled"
+    },
+    {
+      "position": {
+        "posX": -10.8869380950928,
+        "posY": 11.3685054779053,
+        "posZ": 0.999999761581421
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 4.96999979019165,
+        "scaleY": 4.96999979019165,
+        "scaleZ": 4.96999979019165
+      },
+      "name": "Youtube",
+      "type": "Web-App",
+      "url": "https://youtube.com",
+      "scene": "scene-name",
+      "icon": "youtube-256",
+      "view": 0,
+      "status": "Disabled"
+    },
+    {
+      "position": {
+        "posX": -17.2737083435059,
+        "posY": 0.21964293718338,
+        "posZ": 1
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 4.97,
+        "scaleY": 4.97,
+        "scaleZ": 4.97
+      },
+      "name": "Skype",
+      "type": "Web-App",
+      "url": "www.skype.com",
+      "scene": "scene-name",
+      "icon": "skype-icon",
+      "view": 0,
+      "status": "Disabled"
+    },
+    {
+      "position": {
+        "posX": 7.41641283035278,
+        "posY": 3.11211109161377,
+        "posZ": 1.93670332431793
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0.0174524169415236,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 4.96999979019165,
+        "scaleY": 4.96999979019165,
+        "scaleZ": 4.96999979019165
+      },
+      "name": "View Gallery",
+      "type": "Built-in",
+      "url": "",
+      "scene": "scene-name",
+      "icon": "Gallery",
+      "view": 0,
+      "status": "Enabled"
+    },
+    {
+      "position": {
+        "posX": -20.6502780914307,
+        "posY": -8.60224437713623,
+        "posZ": 0.206917032599449
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0.0526292957365513,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 4.96999979019165,
+        "scaleY": 4.96999979019165,
+        "scaleZ": 4.96999979019165
+      },
+      "name": "Create Art",
+      "type": "Built-in",
+      "url": "",
+      "scene": "scene-name",
+      "icon": "Art icon",
+      "view": 0,
+      "status": "Enabled"
+    },
+    {
+      "position": {
+        "posX": 17.9665298461914,
+        "posY": -9.09037685394287,
+        "posZ": 0.999999761581421
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 4.96999979019165,
+        "scaleY": 4.96999979019165,
+        "scaleZ": 4.96999979019165
+      },
+      "name": "Mobility",
+      "type": "Built-in",
+      "url": "",
+      "scene": "scene-name",
+      "icon": "wheelchair-256",
+      "view": 0,
+      "status": "Disabled"
+    },
+    {
+      "position": {
+        "posX": 20.9665298461914,
+        "posY": 1.89037685394287,
+        "posZ": 0.999999761581421
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 4.96999979019165,
+        "scaleY": 4.96999979019165,
+        "scaleZ": 4.96999979019165
+      },
+      "name": "Medic",
+      "type": "Built-in",
+      "url": "",
+      "scene": "scene-name",
+      "icon": "heart-color-256",
+      "view": 0,
+      "status": "Enabled"
+    },
+    {
+      "position": {
+        "posX": -0.200000002980232,
+        "posY": -0.400000095367432,
+        "posZ": 8
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 0.0812824964523315,
+        "scaleY": 0.0812824964523315,
+        "scaleZ": 0.0812824964523315
+      },
+      "name": "TalkAppV5",
+      "status": "Null"
+    }
+  ],
+  "WidgetObject": [
+    {
+      "prefab": "MusicPlayerV3",
+      "position": {
+        "posX": -11,
+        "posY": -6,
+        "posZ": 0
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 1.004704,
+        "scaleY": 1.004704,
+        "scaleZ": 1.004704
+      },
+      "name": "Music Player",
+      "type": "Built-in",
+      "view": 2,
+      "status": "Disabled"
+    },
+    {
+      "prefab": "NewsWidgetV2",
+      "position": {
+        "posX": -0.0072155,
+        "posY": -0.40489,
+        "posZ": 1
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 67.10825,
+        "scaleY": 67.10825,
+        "scaleZ": 67.10825
+      },
+      "name": "News Widget",
+      "type": "Built-in",
+      "view": 1,
+      "status": "Enabled"
+    },
+    {
+      "prefab": "MailWidgetV7",
+      "position": {
+        "posX": -5,
+        "posY": 2,
+        "posZ": 5.2
+      },
+      "rotation": {
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 0
+      },
+      "scale": {
+        "scaleX": 0.07077162,
+        "scaleY": 0.07077162,
+        "scaleZ": 0.07077162
+      },
+      "name": "Email Widget",
+      "type": "Built-in",
+      "view": 7,
+      "status": "Enabled"
+    }  ]
+}
