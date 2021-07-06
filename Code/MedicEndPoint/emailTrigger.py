@@ -13,8 +13,9 @@ app = Flask(__name__)
 app.config['DEBUG'] = True
 app.config['MAIL_SERVER'] = 'smtp.office365.com'
 app.config['MAIL_PORT'] = 587
-app.config['MAIL_USERNAME'] = "cyborg.psm@outlook.com"
-app.config['MAIL_PASSWORD'] = "aaaaaaaaaa"
+app.config['MAIL_USERNAME'] = os.getenv('EMAIL_USERNAME')
+app.config['MAIL_PASSWORD'] = os.getenv('EMAIL_PASSWORD')
+
 app.config['MAIL_USE_TLS'] = True
 app.config['MAIL_USE_SSL'] = False
 
