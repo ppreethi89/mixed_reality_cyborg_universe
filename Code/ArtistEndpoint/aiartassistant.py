@@ -304,9 +304,10 @@ def get_notifications():
 @myapp.route('/update_index')
 def update_index():
     # Using connection string for blob service client
+    connect_str = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
     blob_service_client = BlobServiceClient.from_connection_string(
-        "DefaultEndpointsProtocol=https;AccountName=cyborguniverse;AccountKey=Bsu0QC1pGIdHIG6OJ9W4vHz3oN68M9L8QI4crjGuz6sBOJZ5KoAp8UEE/XM86Ot7T62e3vSJCGGmHxzFFxTlpQ==;EndpointSuffix=core.windows.net")
-
+        connect_str)
+    
     # Instantiate a ContainerClient for each folder
     container_client_topic_model = blob_service_client.get_container_client(
         "ai-artist-assistant-obj/topic_model")
